@@ -47,45 +47,6 @@ portfolio/
 
 ---
 
-## 🛠️ Built With
-
-| Technology | Usage |
-|:---:|:---|
-| **HTML5** | Structure & semantic markup |
-| **CSS3** | Styling, animations, CSS variables, responsive design |
-| **JavaScript (Vanilla)** | Interactivity, scroll events, theme toggle, IntersectionObserver |
-| **Google Fonts** | Playfair Display + Inter |
-| **GitHub Pages** | Free hosting & deployment |
-
----
-
-## 🚀 Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/AbdellahKoulla/AbdellahKoulla.github.io.git
-
-# 2. Open in your browser
-open index.html
-# or simply double-click index.html
-```
-
-No build step. No npm install. Just open and go. ✅
-
----
-
-## 📸 Sections Preview
-
-| Section | Description |
-|:---:|:---|
-| **Hero** | Animated intro with morphing profile image and CTA buttons |
-| **About** | Bio, core competencies and key stats (19 y/o · 10+ projects · 50+ problems · 1 hackathon win) |
-| **Skills** | Tech stack grouped by category with hover effects |
-| **Projects** | 4 featured projects with tech tags |
-| **Experience** | Interactive timeline — education, internship & awards |
-| **Contact** | Clickable cards for email, phone, LinkedIn & location |
-
----
 
 ## 📬 Contact
 
